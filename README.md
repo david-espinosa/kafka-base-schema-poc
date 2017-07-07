@@ -1,0 +1,1 @@
+PoC where messages sent to Kafka implement a shared schema
